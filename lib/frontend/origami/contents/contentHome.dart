@@ -90,21 +90,21 @@ class ContentOrigami {
                                     height: size.height,
                                     width: size.width * 0.06,
                                     child: Center(
-                                      child: Text('numero'),
+                                      child: Text('Numero'),
                                     ),
                                   ),
                                   Container(
                                     height: size.height,
                                     width: size.width * 0.06,
                                     child: Center(
-                                      child: Text('dificuldade'),
+                                      child: Text('Dificuldade'),
                                     ),
                                   ),
                                   Container(
                                     height: size.height,
                                     width: size.width * 0.06,
                                     child: Center(
-                                      child: Text('desvincular'),
+                                      child: Text('Desvincular'),
                                     ),
                                   ),
                                 ],
